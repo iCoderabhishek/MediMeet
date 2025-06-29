@@ -441,3 +441,5 @@ const styles = StyleSheet.create({
     paddingHorizontal: 32,
   },
 });
+
+export default AppointmentsScreen
